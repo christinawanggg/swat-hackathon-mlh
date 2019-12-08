@@ -4,6 +4,8 @@ This is the repository for our MediHelp website.
 
 MediHelp provides a simple, easy way for college students to home remedies and medications for the most common symptoms experienced on a college campus. It's clean and easy to navigate.
 
+Symptoms include: Bites/Stings, Burns, Fevers, Headaches, Hives, Nausea, Sinus Congestion, Sore Throat
+
 Locally Hosted with Django 
 
 How to run our website
